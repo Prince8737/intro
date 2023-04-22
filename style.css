@@ -1,0 +1,36 @@
+body{
+    background-color:#393E46;
+  }
+  h1{
+    color: #66BFBF;
+    text-decoration: underline;
+    text-decoration-color: rgb(243, 42, 42);
+  }
+  h2{
+    color: #66BFBF;
+    text-decoration: overline underline;
+    text-decoration-color: rgb(243, 42, 42);
+  }
+  h3{
+    color: #66BFBF;
+    text-decoration: overline underline;
+    text-decoration-color: rgb(243, 42, 42);
+    }
+  h4{
+    color: #66BFBF;
+    text-decoration: overline underline;
+    text-decoration-color: rgb(243, 42, 42);
+  }
+  h5{
+    color: #66BFBF;
+    text-decoration: overline underline;
+    text-decoration-color: rgb(243, 42, 42);
+  }
+  hr{
+
+    border-style:none;
+    border-top-style:dotted;
+    border-color: grey;
+    border-width: 10px;
+    width: 5%;
+  }
